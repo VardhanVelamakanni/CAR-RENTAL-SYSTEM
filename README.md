@@ -19,19 +19,7 @@ The **Car Rental System** is a simple C++ console application that allows users 
 
 ## Installation and Execution
 1. **Install a C++ Compiler** (GCC, Clang, or MSVC)
-2. **Clone or Download the Repository**
-   ```sh
-   git clone https://github.com/your-repo/car-rental-system.git
-   cd car-rental-system
-   ```
-3. **Compile the Code**
-   ```sh
-   g++ car_rental.cpp -o car_rental
-   ```
-4. **Run the Executable**
-   ```sh
-   ./car_rental
-   ```
+
 
 ## How to Use
 1. The system welcomes you and displays the available car brands.
